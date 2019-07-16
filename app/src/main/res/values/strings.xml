@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+    <string name="profile_button">Profile Buton</string>
+    <string name="andela_button">Andela Page</string>
+
+    <string name="name">NAME</string>
+    <string name="my_name">Ugochukwu Michael EGENTI</string>
+
+    <string name="track">TRACK</string>
+    <string name="my_track">ANDROID</string>
+
+    <string name="country">COUNTRY</string>
+    <string name="my_country">NIGERIA</string>
+
+    <string name="email">EMAIL</string>
+    <string name="my_email">mykehugo@gmail.com</string>
+
+    <string name="phone">PHONE NUMBER</string>
+    <string name="my_phone">07015620542</string>
+</resources>
